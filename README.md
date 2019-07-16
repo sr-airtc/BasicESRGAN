@@ -30,11 +30,9 @@ https://blog.csdn.net/mazhitong1020/article/details/80415758
 
 具体参考https://blog.csdn.net/CHNguoshiwushuang/article/details/80556419
 
-![1563198208423](C:\Users\superman\AppData\Roaming\Typora\typora-user-images\1563198208423.png)
+![1563198208423](https://www.pirm2018.org/img/regions.svg)
 
-纵轴质量分 横轴失真度 成反比 粉色区域为不可达的区域
-
-
+纵轴质量分 横轴失真度 成反比 
 
 分数评估代码和[ PIRM Challenge](https://www.pirm2018.org/PIRM-SR.html)竞赛一样（matlab）
 
