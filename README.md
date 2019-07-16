@@ -4,7 +4,7 @@
 
 
 
-PI (perceptual index)感知指数
+## PI (perceptual index)感知指数
 
 来自三篇论文
 
@@ -12,6 +12,7 @@ PI (perceptual index)感知指数
 $$
 \text{Perceptual index} = \tfrac{1}{2} ((10 - \text{Ma}) + \text{NIQE}).
 $$
+
 **Ma** 来自论文http://xxx.itp.ac.cn/pdf/1612.05890v1
 
 用于评估图像的感知质量
